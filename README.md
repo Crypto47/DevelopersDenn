@@ -2,13 +2,15 @@
 
 ![Open React template preview](https://user-images.githubusercontent.com/2683512/217847405-a7941b8f-45e9-4ed0-8793-03f793f45db1.png)
 
-**Open** is a **free React landing page template built with Tailwind CSS** for developers/makers who want to create a quick and professional landing page for their open source projects, SaaS products, online services, and more.
+Denn is a dynamic startup that specializes in providing a range of services for developers. With a strong focus on web development, plugin development, and AI/ML model deployment on the web, Denn offers comprehensive solutions to meet the evolving needs of the developer community.
 
-Use it for whatever you want, and be sure to reach us out on [Twitter](https://twitter.com/Cruip_com) if you build anything cool/useful with it.
+At Denn, our team of experienced professionals is dedicated to delivering top-notch web development services. Whether you require a full-scale website or a customized web application, our developers have the expertise to create intuitive and visually appealing solutions tailored to your specific requirements. We stay up-to-date with the latest industry trends and technologies, ensuring that our clients receive cutting-edge web development solutions.
 
-Created and maintained with ❤️ by [Cruip.com](https://cruip.com).
+In addition to web development, Denn excels in plugin development. Our team can create custom plugins that enhance the functionality and extend the capabilities of popular content management systems and platforms. Whether you need a plugin to optimize your e-commerce website, streamline your workflow, or enhance user engagement, Denn can develop robust and scalable solutions to meet your needs.
 
-*The previous version built with the Cruip CSS is available [here](https://github.com/cruip/open-react-template/releases/tag/1.0.0).*
+Another area of expertise at Denn lies in AI/ML model deployment on the web. Our team understands the transformative power of artificial intelligence and machine learning in today's digital landscape. We can help you integrate AI/ML models into your web applications, enabling you to leverage the power of intelligent automation, data analysis, and predictive capabilities. From recommendation systems to natural language processing, Denn can assist you in deploying AI/ML models effectively to enhance your web-based solutions.
+
+At Denn, we are committed to providing exceptional service and delivering high-quality solutions to our clients. We strive to understand your unique business requirements and work collaboratively to create innovative and scalable web development, plugin development, and AI/ML deployment solutions. Partner with Denn to take your development projects to new heights and achieve your goals with confidence.
 
 ## Live demo
 
